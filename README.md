@@ -1,4 +1,4 @@
-# laplacian-blending
+# Laplacian Blending
 This project is an implementation of the Laplacian pyramid algorithm for blending images. The algorithm is based on the [paper by Burt and Adelson](http://persci.mit.edu/pub_pdfs/pyramid83.pdf) and aims to produce more realistic outputs compared to traditional image blending methods.
 The project includes the following steps:
 
